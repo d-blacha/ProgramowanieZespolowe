@@ -1,4 +1,4 @@
-testujemy merge
+0123 testujemy merge
 <<<<<<< HEAD
 zmiana 1 - #natalia
 =======
