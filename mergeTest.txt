@@ -1,6 +1,12 @@
+0123 testujemy merge
+=======
 testujemy merge
+zmiana 1 - #natalia
+=======
 Dodaję linijkę
-
+:)
 
 
 Dodaję 2 linijkę-Adam
+
+merge wykonany
