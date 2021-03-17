@@ -27,3 +27,5 @@ dodaje linijke - julia
 merge wykonany
 >>>>>>> 5b847c5ab5763fa54a1e1fbeea54d4002e454823
 dodaje linijke
+
+tutaj tez dodaje linijke - j
