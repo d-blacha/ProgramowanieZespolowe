@@ -1,6 +1,14 @@
 0123 testujemy merge
 =======
 testujemy merge
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+dodajemy przedmiot
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 5b847c5ab5763fa54a1e1fbeea54d4002e454823
 zmiana 1 - #natalia
 =======
 Dodaję linijkę
@@ -8,5 +16,10 @@ Dodaję linijkę
 
 
 Dodaję 2 linijkę-Adam
+<<<<<<< HEAD
+>>>>>>> a4759890da99735e7dea91e91500147afc39d07f
+>>>>>>> e52b2f2355358f08c6a0cce9c095c5846c047bfb
+=======
 
 merge wykonany
+>>>>>>> 5b847c5ab5763fa54a1e1fbeea54d4002e454823
