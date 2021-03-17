@@ -1,3 +1,15 @@
 testujemy merge
+<<<<<<< HEAD
 
 dodajemy przedmiot
+=======
+<<<<<<< HEAD
+zmiana 1 - #natalia
+=======
+Dodaję linijkę
+
+
+
+Dodaję 2 linijkę-Adam
+>>>>>>> a4759890da99735e7dea91e91500147afc39d07f
+>>>>>>> e52b2f2355358f08c6a0cce9c095c5846c047bfb
