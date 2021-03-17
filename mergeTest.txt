@@ -1,10 +1,12 @@
 0123 testujemy merge
-<<<<<<< HEAD
+=======
+testujemy merge
 zmiana 1 - #natalia
 =======
 Dodaję linijkę
-
+:)
 
 
 Dodaję 2 linijkę-Adam
->>>>>>> a4759890da99735e7dea91e91500147afc39d07f
+
+merge wykonany
