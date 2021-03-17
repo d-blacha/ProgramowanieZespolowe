@@ -1,2 +1,9 @@
 # ProgramowanieZespolowe
 Zajęcia
+nauka gita
+:)
+(:
+:]
+[:
+:>
+<:
