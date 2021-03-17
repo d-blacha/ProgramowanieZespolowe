@@ -1,1 +1,3 @@
 testujemy merge
+
+dodajemy przedmiot
