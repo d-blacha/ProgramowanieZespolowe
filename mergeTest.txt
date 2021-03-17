@@ -1,9 +1,9 @@
 testujemy merge
-<<<<<<< HEAD
+<<<<<< HEAD
 zmiana 1 - #natalia
 =======
 Dodaję linijkę
-
+:)
 
 
 Dodaję 2 linijkę-Adam
